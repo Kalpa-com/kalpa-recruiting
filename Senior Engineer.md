@@ -1,4 +1,4 @@
-# Position: Senior Full Stack Engineer
+# Senior Full Stack Engineer
 **Company:** Kalpa Inc.  
 **Location:** Fully Remote
 
