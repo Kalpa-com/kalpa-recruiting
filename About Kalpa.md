@@ -37,3 +37,9 @@ Kalpa's platform is hosted on Amazon Web Services, and leverages a variety of se
 We strongly believe in maintain infrastructure using code, so we rely heavily on CloudFormation and custom Bash scripts to automatically audit our various applications and services. Code is hosted on GitHub and deployed using CircleCI.
 
 Our front end is built with React, TypeScript and Vite, and our API is built in Python 3.11 using the FastAPI framework. In addition we have a number of Lambda scripts that we leverage to handle things such as delivering media, managing web sockets, and implementing server side rendering for social sharing and implementing the Open Graph protocol for our public facing sites.
+
+## The Team
+As of this writing the team is about 5 full time employees combined with a rotating set of part or full time contractors. We work closely with a team of front end engineers, designers, and UI/UX experts at [Z1 Digital](Z1 Digital). The worke exclusively on our front end applications, but they are very much embedded in the Kalpa engineering team. Both of Kalpa's founders have worked with them on previous projects, so it's about as close a relationship as can be had with an overseas contracting firm (they do great work).
+
+## Workflow
+The kalpa team is fully remote, so we rely heavily on project management and collaboration tools to communicate. We use Slack for day-to-day communications, Zoom for video calls, and Jira for project management. Platform architecture and technical documentation are all stored in Confluence.
