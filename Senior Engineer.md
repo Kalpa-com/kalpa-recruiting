@@ -2,7 +2,7 @@
 **Company:** Kalpa Inc.  
 **Location:** Fully Remote
 
-## About Kalpa
+## About Us
 At [Kalpa](https://www.kalpa.com) we help clients generate personalized video content at scale using a range of first and third party services. For additional details please see the [About Kalpa](https://github.com/Kalpa-com/kalpa-recruiting/blob/main/About%20Kalpa.md).
 
 ## About the Role
